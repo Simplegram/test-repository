@@ -1,0 +1,10 @@
+this contain the code for creating a simple login form.
+just copy and paste the code.  
+
+you can change the password or the username in the javascript at this code line:
+var pass = 'password you want'
+var user = 'username you want'
+
+you can use jsbin.com to test this.
+
+thanks.
